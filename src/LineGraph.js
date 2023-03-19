@@ -99,7 +99,15 @@ function LineGraph({ casesType }) {
           options={options}
         />
       )}
+      <footer id="footer">
+      <br />
+      <br />
+      
+        Created by Harsh Athavale. © 2021
+
+        </footer>
     </div>
+    
   );
 }
 
